@@ -58,7 +58,7 @@ public class Main {
                             System.out.println("No existe estudiante con este codigo");
                         }
                     }
-                    //buscar();
+                    //buscar2();
                     break;
 
                 case 3:

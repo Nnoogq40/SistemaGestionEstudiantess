@@ -43,7 +43,7 @@ public class Main {
                     Estudiante nuevo = new Estudiante(codigo, nombre, edad, carrera);
                     estudiantes.add(nuevo);
                     System.out.println("ha ingresado correctamente los datos");
-                    // agregar();
+                    // agregar()3;
                     break;
                 case 2:
                     System.out.println("escribe el codigo del estudiante");

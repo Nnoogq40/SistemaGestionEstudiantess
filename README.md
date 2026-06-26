@@ -8,7 +8,7 @@ Agregar estudiantes.
 Buscar estudiantes por código.
 Eliminar estudiantes.
 Mostrar todos los estudiantes registrados.
-Tecnologías utilizadas
+Tecnologías utilizadas:
 Java
 IntelliJ IDEA
 Git
